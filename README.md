@@ -1,8 +1,7 @@
 <p>
     <a href="http://www.zmap.xyz" target="_blank" title="Home of ZMap">
-        <img width="100" src="./img/zmap-logo.png" />
+        <img width="100" src="https://github.com/zmaplab/zserver/blob/main/img/P.png?raw=true" />
     </a>&nbsp;
-    <img height="100" src="./img/zmap-name.png" />
 </p>
 
 <p align="center">
