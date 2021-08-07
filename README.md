@@ -19,3 +19,7 @@ ZMap Lab 是一个基于 .NET 技术栈的研究实验室，主要研究地理�
  
 - [ZServer](https://github.com/zmaplab/zserver) 地图服务端
 - [ZEngine](https://github.com/zmaplab/zengine) 桌面端和移动端控件
+
+## License
+
+This repository is licensed with the [MIT](LICENSE) license.
